@@ -17,13 +17,13 @@ A mood-based music recommender/player app that uses facial emotion detection to 
 - **Requests**: For making HTTP requests to fetch album artwork.
 
 ## Requirements
-- Python 3.x
-- PyQt5
-- OpenCV
-- DeepFace
-- Spotipy
-- Google API Client
-- Requests
+- **Python 3.x**
+- **PyQt5**
+- **OpenCV**
+- **DeepFace**
+- **Spotipy**
+- **Google API Client**
+- **Requests**
 
 ### Install Dependencies
 To install the required dependencies, run:
