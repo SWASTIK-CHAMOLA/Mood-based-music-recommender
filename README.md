@@ -24,9 +24,10 @@ A mood-based music recommender/player app that uses facial emotion detection to 
 - **Spotipy**
 - **Google API Client**
 - **Requests**
+  <br>
 
 ### Install Dependencies
-To install the required dependencies, run:
+To install the required dependencies, run :
 
 ```bash
 pip install -r requirements.txt
